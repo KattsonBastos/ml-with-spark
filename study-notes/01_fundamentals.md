@@ -8,7 +8,7 @@
 &ensp;&ensp;&ensp;&ensp;Distributed Data Processing means we're going to process our data (massive data) in several nodes of a cluster, that is, in a lot of machines/containers.
 </p>
 
-*<span style="color:#ECB275">(## TODO)</span>*
+*<span style="color:#ECB275">(:watch: TODO)</span>*
 
 ## What Spark is?<p id="01_what_is"></p>
 <p align="justify">
