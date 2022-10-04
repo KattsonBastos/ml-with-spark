@@ -1,4 +1,4 @@
-# FDistributed Machine Learning <p id="distributed_ml"></p>
+# Distributed Machine Learning <p id="distributed_ml"></p>
 
 <a href="https://github.com/KattsonBastos/ml-with-spark#contents">Back to Contents</a>
 
