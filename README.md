@@ -17,7 +17,7 @@
 ## Contents <p id="contents"></p>
 - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/01_fundamentals.md#fundamentals">Fundamental Concepts</a>
 
-    - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/01_fundamentals.md#01_distributed">Distributed Data Processing - What, Why, and How?</a> *<span style="color:#ECB275">(:watch: TODO)</span>*
+    - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/01_fundamentals.md#01_distributed">Distributed Data Processing - What, Why, and How?</a>
 
     - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/01_fundamentals.md#01_what_is">What Spark is?</a>
 
@@ -25,6 +25,6 @@
 
     - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/01_fundamentals.md#01_data_structure">Spark's Data Representation</a>
 
-- Distributed Machine Learning *<span style="color:#ECB275">(:watch: TODO)</span>*
-    - Data parallelism *<span style="color:#ECB275">(:watch: TODO)</span>*
-    - Model parallelism *<span style="color:#ECB275">(:watch: TODO)</span>*
+- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#distributed_ml">Distributed Machine Learning </a>
+    - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#02_dp">Data parallelism</a>
+    - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#02_mp">Model parallelism</a>
