@@ -2,13 +2,15 @@
 
 <a href="https://github.com/KattsonBastos/ml-with-spark#contents">Back to Contents</a>
 
-## Distributed Data Processing - What, Why, and How?<p id="01_distributed"></p>
+## Distributed Data Processing - What and Why?<p id="01_distributed"></p>
 
 <p align="justify">
-&ensp;&ensp;&ensp;&ensp;Distributed Data Processing means we're going to process our data (massive data) in several nodes of a cluster, that is, in a lot of machines/containers.
+&ensp;&ensp;&ensp;&ensp;Distributed Data Processing means we're going to process our data (massive data) in several nodes of a cluster, that is, in a lot of machines/containers. This process is made in parallel among all nodes in a way those nodes work in conjunction connected by a network.
 </p>
 
-*<span style="color:#ECB275">(:watch: TODO)</span>*
+<p align="justify">
+&ensp;&ensp;&ensp;&ensp;The main reason why distributed processing is used is because it helps us to reduce the processing time, if compared to the centralized system. Then, reducing processing time means reducing costs and delivering more business value. Besides that, the project wins in scalability and availability.
+</p>
 
 ## What Spark is?<p id="01_what_is"></p>
 <p align="justify">
