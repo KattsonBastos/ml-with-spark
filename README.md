@@ -41,7 +41,7 @@
     - **Loading Different Data Souces**<a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/data_loading/01-importing-data.ipynb"> (Link to Notebook) </a>
 
 
-- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering">Feature Engineering</a>
+- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering">Feature Engineering and Preprocessing</a>
 
     - **VectoreAssembler** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/01-vectorAssembler.ipynb"> (Link to Notebook) </a>
 
@@ -54,3 +54,13 @@
     - **One Hot Encoding Categorical Variables** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/05-OneHotEncoding.ipynb"> (Link to Notebook) </a>
 
     - **Dealing with Missing Values** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/06-Imputer.ipynb"> (Link to Notebook) </a>
+
+    - **Data Normalization** (_TODO_)
+
+    - **Data Scaling** (_TODO_)
+
+- **Supervised Machine Learning With PySpark** (_TODO_)
+
+- **Unupervised Machine Learning With PySpark** (_TODO_)
+
+- **Practical Project: End-to-end Machine Learnign With Spark** (_TODO_)
