@@ -53,7 +53,7 @@
 
     - **One Hot Encoding Categorical Variables** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/05-OneHotEncoding.ipynb"> (Link to Notebook) </a>
 
-    - **Dealing with Missing Values** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/06-Imputer.ipynb"> (Link to Notebook) </a>
+    - **Dealing with Missing Values - Data Imputation** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/06-Imputer.ipynb"> (Link to Notebook) </a>
 
     - **Data Normalization** (_TODO_)
 
