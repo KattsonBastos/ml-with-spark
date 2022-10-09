@@ -13,6 +13,8 @@
 
 - <a href="https://semantix.ai/academy">Semantix Academy - Big Data Engineer Course</a>
 
+- <a href="https://www.udemy.com/course/machine-learning-com-spark-e-pyspark">Fernando Amaral: Machine Learning with Spark and PySpark</a>
+
 ---
 ## Contents <p id="contents"></p>
 - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/01_fundamentals.md#fundamentals">Fundamental Concepts</a>
@@ -28,3 +30,27 @@
 - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#distributed_ml">Distributed Machine Learning </a>
     - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#02_dp">Data parallelism</a>
     - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#02_mp">Model parallelism</a>
+
+
+---
+## Coding Practices Contents <p id="code_contents"></p>
+
+- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/">Creating a Jupyter Notebooks + PySpark container</a>
+
+- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/data_loading">Data Loading</a>
+    - **Loading Different Data Souces**<a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/data_loading/01-importing-data.ipynb"> (Link to Notebook) </a>
+
+
+- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering">Feature Engineering</a>
+
+    - **VectoreAssembler** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/01-vectorAssembler.ipynb"> (Link to Notebook) </a>
+
+    - **Principal Component Analysis** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/02-PCA.ipynb"> (Link to Notebook) </a>
+
+    - **Binarizer** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/03-Binarizer.ipynb"> (Link to Notebook) </a>
+
+    - **Strings to Indexes and Indexes to String** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/04-StringsAndIndexes.ipynb"> (Link to Notebook) </a>
+
+    - **One Hot Encoding Categorical Variables** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/05-OneHotEncoding.ipynb"> (Link to Notebook) </a>
+
+    - **Dealing with Missing Values** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/06-Imputer.ipynb"> (Link to Notebook) </a>
