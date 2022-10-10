@@ -55,9 +55,7 @@
 
     - **Dealing with Missing Values - Data Imputation** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/06-Imputer.ipynb"> (Link to Notebook) </a>
 
-    - **Data Normalization** (_TODO_)
-
-    - **Data Scaling** (_TODO_)
+    - **Feature Scaling** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/feature_engineering/07-feature-scaling.ipynb"> (Link to Notebook) </a>
 
 - **Supervised Machine Learning With PySpark** (_TODO_)
 
