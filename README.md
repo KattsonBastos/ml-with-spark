@@ -69,10 +69,12 @@
 
     - **Classification with Logistic Regression** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/04-logistic-regression.ipynb"> (Link to Notebook) </a>
 
+    - **Multi-Class Classification with NaiveBayes** (_TODO_)
+
     - **Classification with Multi Layer Perceptron** (_TODO_)
 
 
 - **Unupervised Machine Learning With PySpark** (_TODO_)
     - **KMeans Clusterization** (_TODO_)
 
-- **Practical Project: End-to-end Machine Learnign With Spark** (_TODO_)
+- **Practical Project: End-to-end Machine Learning With Spark** (_TODO_)
