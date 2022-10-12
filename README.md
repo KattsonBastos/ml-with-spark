@@ -67,6 +67,10 @@
 
     - **Random Forest Regressor** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/03-random-forest-regressor.ipynb"> (Link to Notebook) </a>
 
+    - **Classification with Logistic Regression** (_TODO_)
+
+    - **Classification with Multi Layer Perceptron** (_TODO_)
+
 
 - **Unupervised Machine Learning With PySpark** (_TODO_)
 
