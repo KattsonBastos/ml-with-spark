@@ -69,12 +69,16 @@
 
     - **Classification with Logistic Regression** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/04-logistic-regression.ipynb"> (Link to Notebook) </a>
 
-    - **Multi-Class Classification with NaiveBayes** (_TODO_)
+    - **Multi-Class Classification with NaiveBayes** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/05-multiclass-NB.ipynb"> (Link to Notebook) </a>
 
-    - **Classification with Multi Layer Perceptron** (_TODO_)
+    - **Classification with Multi Layer Perceptron** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/06-MLP.ipynb"> (Link to Notebook) </a>
 
 
-- **Unupervised Machine Learning With PySpark** (_TODO_)
-    - **KMeans Clusterization** (_TODO_)
+- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/unsupervised-ml">**Unupervised Machine Learning With PySpark** </a>
+    - **KMeans Clusterization** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/unsupervised-ml/01-kmeans.ipynb"> (Link to Notebook) </a>
+
+- <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/pipelines">**PySpark Pipelines** </a>
+    - **Pipeline** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/pipelines/01-pipeline.ipynb"> (Link to Notebook) </a>
+    - **Pipeline With Cross Validation** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/pipelines/02-pipeline-crossvalidation.ipynb"> (Link to Notebook) </a>
 
 - **Practical Project: End-to-end Machine Learning With Spark** (_TODO_)
