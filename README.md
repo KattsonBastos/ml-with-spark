@@ -65,7 +65,7 @@
 
     - **Gaussian - Generalized Linear Regression** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/02-GLR-Gaussian.ipynb"> (Link to Notebook) </a>
 
-    - **GRandom Forest Regressor** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/03-random-forest-regressor.ipynb"> (Link to Notebook) </a>
+    - **Random Forest Regressor** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/supervised-ml/03-random-forest-regressor.ipynb"> (Link to Notebook) </a>
 
 
 - **Unupervised Machine Learning With PySpark** (_TODO_)
