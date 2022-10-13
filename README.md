@@ -27,6 +27,10 @@
 
     - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/01_fundamentals.md#01_data_structure">Spark's Data Representation</a>
 
+    - Data Streaming (_TODO_)
+
+    - Streaming Machine Learning (_TODO_)
+
 - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#distributed_ml"><strong>Distributed Machine Learning</strong></a>
     - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#02_dp">Data parallelism</a>
     - <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/study-notes/02_distributed_ml.md#02_mp">Model parallelism</a>
@@ -81,4 +85,8 @@
     - **Pipeline** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/pipelines/01-pipeline.ipynb"> (Link to Notebook) </a>
     - **Pipeline With Cross Validation** <a href="https://github.com/KattsonBastos/ml-with-spark/blob/main/practices/volume/src/pipelines/02-pipeline-crossvalidation.ipynb"> (Link to Notebook) </a>
 
-- **Practical Project: End-to-end Machine Learning With Spark** (_TODO_)
+- **Practical Project 1: End-to-end Machine Learning With Spark** (_TODO_)
+
+- **Spark Streaming** (_TODO_)
+
+- **Practical Project 2: Data and ML Streaming with Spark and Kafka** (_TODO_)
